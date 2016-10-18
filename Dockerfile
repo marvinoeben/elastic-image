@@ -1,4 +1,4 @@
-FROM local/c7-systemd
+FROM marvinoeben/c7-systemd
 
 MAINTAINER Marvin Oeben "oebenmarvin@gmail.com"
 
